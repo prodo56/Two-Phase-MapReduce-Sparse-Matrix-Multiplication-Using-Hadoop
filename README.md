@@ -1,4 +1,4 @@
-# Two-Phase-MapReduce-Sparse-Matrix-Multiplication-Using-Hadoop
+# Two Phase MapReduce:Sparse Matrix Multiplication Using Hadoop
 This code implements a Hadoop MapReduce program, TwoPhase.java, that computes the multiplication of two given matrices using the two-phase approach.
 
 The input matrices A and B are stored in two separate directories, e.g., mat-A and mat-B. Each directory contains a single text file, each line of which is a tuple (row-index, column-index, value) that specifies a non-zero value in the matrix.
