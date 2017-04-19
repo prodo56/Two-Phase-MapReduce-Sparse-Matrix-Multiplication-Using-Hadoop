@@ -13,7 +13,7 @@ For example, the following is the content of mat-A/values.txt which stores the e
            2,0,1
            2,2,2
            
-Example invocation of your program is as follows:
+Invocation of the program is as follows:
 
 > bin/hadoop jar TwoPhase_2p.jar TwoPhase mat-A mat-B output
 
